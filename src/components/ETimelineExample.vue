@@ -135,6 +135,14 @@ export default defineComponent({
     return {
       eventsGroups
     }
+  },
+  methods: {
+    onHoveredTimestamp(e) {
+      console.log("onHoveredTimestamp", e)
+    },
+    onDateClicked(e) {
+      console.log("onDateClicked", e)
+    },
   }
 })
 </script>
@@ -148,6 +156,8 @@ export default defineComponent({
         min-date="2021-01-15"
         max-date="2025-10-15"
         dark
+        @hovered-timestamp="onHoveredTimestamp"
+        @date-clicked="onDateClicked"
     />
   </div>
 </template>

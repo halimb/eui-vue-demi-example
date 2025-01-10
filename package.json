@@ -11,7 +11,7 @@
     "type-check": "vue-tsc --build"
   },
   "dependencies": {
-    "@evercam/ui": "0.0.63-vue-demi.0.1",
+    "@evercam/ui": "0.0.63-vue-demi.0.2",
     "vue": "^3.5.13"
   },
   "devDependencies": {

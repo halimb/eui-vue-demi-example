@@ -381,10 +381,10 @@
   resolved "https://registry.yarnpkg.com/@esbuild/win32-x64/-/win32-x64-0.24.0.tgz#168ab1c7e1c318b922637fad8f339d48b01e1244"
   integrity sha512-7IAFPrjSQIJrGsK6flwg7NFmwBoSTyF3rl7If0hNUFQU4ilTsEPL6GuMuU9BfIWVVGuRnuIidkSMC+c0Otu8IA==
 
-"@evercam/ui@0.0.63-vue-demi.0.1":
-  version "0.0.63-vue-demi.0.1"
-  resolved "https://registry.yarnpkg.com/@evercam/ui/-/ui-0.0.63-vue-demi.0.1.tgz#c2d52087366f91a791adb8554441d837e27f717c"
-  integrity sha512-ra8I8iAqa7h6nSm6uDG49bfK6Yn0lFkFC1di8yUpECwQKtFRgqChw/WuEpMUKgiotCAiH4jQQFCLIJPNWFK2Aw==
+"@evercam/ui@0.0.63-vue-demi.0.2":
+  version "0.0.63-vue-demi.0.2"
+  resolved "https://registry.yarnpkg.com/@evercam/ui/-/ui-0.0.63-vue-demi.0.2.tgz#07b5d839dd03d6ae83df8d1f0308316949e87780"
+  integrity sha512-SR+i1o45BkUo0Haqu+9uaRNhKgL5v7lUIQa7zVjyQNQQ4wxIOLW/ABVUeMLhsSNb+cAl0Jn52HyOvfT6DRhYcQ==
 
 "@fontsource-variable/inter@^5.0.8":
   version "5.1.0"
